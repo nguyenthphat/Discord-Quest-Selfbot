@@ -47,6 +47,9 @@ export class ClientQuest extends Client {
 	#webhookId: string | null = null;
 	#webhookToken: string | null = null;
 	constructor(token: string) {
+		if (!token) {
+			throw new Error('Token is required to initialize the client.');
+		}
 		const rest = new REST({ version: '10', makeRequest }).setToken(token);
 		rest.on('rateLimited', (info: any) => {
 			console.warn(
