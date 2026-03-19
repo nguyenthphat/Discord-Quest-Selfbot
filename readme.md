@@ -55,6 +55,9 @@ npm run start
 > [!NOTE]
 > **This is how you use GitHub Actions to automatically complete quests for you and send notifications via webhook (optional).**
 
+> [!CAUTION]
+> **Running this on GitHub Actions is prohibited by the [GitHub Actions Acceptable Use Policy](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies#4-spam-and-inauthentic-activity-on-github) and can lead to immediate account suspension.**
+
 ### Fork This Repository
 <img width="446" height="132" alt="1" src="https://github.com/user-attachments/assets/a47e639c-6cef-474e-aa1e-01c5cdfb00ab" />
 <img width="771" height="608" alt="2" src="https://github.com/user-attachments/assets/1599f2be-d556-4d83-a5b5-afe299eeee4f" />
