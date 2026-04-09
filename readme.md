@@ -11,7 +11,7 @@ This project provides a minimal selfbot framework built on top of discord.js cor
 > 
 > Some users have received the following system message:
 > 
-> <img width="836" height="272" alt="image" src="https://gist.github.com/user-attachments/assets/6b439f4b-4381-4524-8540-b6a4777a80d0" />
+> <img width="836" height="272" alt="image" src="https://github.com/user-attachments/assets/3f19670e-e6f4-4425-99d7-7f04d1398787" />
 > 
 > Use the script at your own risk.
 
