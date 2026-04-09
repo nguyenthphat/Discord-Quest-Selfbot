@@ -6,6 +6,15 @@ Based on the original work by [amia](https://gist.github.com/aamiaa/204cd9d42013
 
 This project provides a minimal selfbot framework built on top of discord.js core libraries, demonstrating how selfbot patches can be implemented without modifying the library’s source code directly.
 
+> [!CAUTION]
+> As of April 7th 2026, Discord has expressed their intent to crack down on automating quest completion.
+> 
+> Some users have received the following system message:
+> 
+> <img width="836" height="272" alt="image" src="https://gist.github.com/user-attachments/assets/6b439f4b-4381-4524-8540-b6a4777a80d0" />
+> 
+> Use the script at your own risk.
+
 > [!WARNING]
 > **I take no responsibility for accounts that get blocked for using this repo.**
 
