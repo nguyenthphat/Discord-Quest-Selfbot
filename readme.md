@@ -2,9 +2,18 @@
 
 A selfbot that automatically completes **Discord Quests**.
 
-Based on the original work by [amia](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb/4912415839790240d49c1d2553e940f0c65f95d5).
+Based on the original work by [amia](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb).
 
 This project provides a minimal selfbot framework built on top of discord.js core libraries, demonstrating how selfbot patches can be implemented without modifying the library’s source code directly.
+
+> [!CAUTION]
+> As of April 7th 2026, Discord has expressed their intent to crack down on automating quest completion.
+> 
+> Some users have received the following system message:
+> 
+> <img width="836" height="272" alt="image" src="https://github.com/user-attachments/assets/3f19670e-e6f4-4425-99d7-7f04d1398787" />
+> 
+> Use the script at your own risk.
 
 > [!WARNING]
 > **I take no responsibility for accounts that get blocked for using this repo.**
@@ -24,7 +33,7 @@ This project provides a minimal selfbot framework built on top of discord.js cor
   * `WATCH_VIDEO_ON_MOBILE`
   * `ACHIEVEMENT_IN_ACTIVITY`
 
-* Automatically **redeems rewards** for completed quests.
+* ~~Automatically **redeems rewards** for completed quests.~~ nope 😭
 * Unsupported for now (due to no valid samples at time of development):
 
   * `STREAM_ON_DESKTOP`
@@ -98,7 +107,7 @@ npm run start
 After completion, your output may look like this:
 
 ```sh
-Logged in as @<username>
+Logged in!
 Found 9 valid quests to do.
 Spoofing video for Opera GX.
 Spoofed your game to the Comet AI browser. Wait for 15 more minutes.
